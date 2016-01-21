@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: cascading:cascading-hadoop:3.1.0-wip-50">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cascading/cascading-hadoop/3.1.0-wip-50/cascading-hadoop-3.1.0-wip-50.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/cascading/cascading-hadoop/3.1.0-wip-50/cascading-hadoop-3.1.0-wip-50-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/cascading/cascading-hadoop/3.1.0-wip-50/cascading-hadoop-3.1.0-wip-50-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
